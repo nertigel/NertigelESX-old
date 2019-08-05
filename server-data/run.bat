@@ -1,0 +1,1 @@
+F:\NertigelESX\run.cmd +exec server.cfg
